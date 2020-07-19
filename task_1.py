@@ -17,3 +17,5 @@ print("\nGotuję właśnie bób")
 print("\nMniam, mniam, będzie pyszny obiadek!")
 
 print("\nStrasznie się dziś najadłam i ciężko mi się myśli :D")
+
+print("\nSerdeczne pozdrowienia z ceglanej polskiej stolicy lnu Żyrardowa przesyłam Rafałowi, obyś w zdrowiu i nie w gorącu przychylnym okiem patrzył na zadania swoich studentów :)")
