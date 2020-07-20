@@ -14,8 +14,21 @@ print("W sumie kupuję", length, "produktów")
 print("\nCiekawe co mi z tego wyjdzie")
 
 print("\nGotuję właśnie bób")
-print("\nMniam, mniam, będzie pyszny obiadek!")
+print("Mniam, mniam, będzie pyszny obiadek!")
 
 print("\nStrasznie się dziś najadłam i ciężko mi się myśli :D")
 
-print("\nSerdeczne pozdrowienia z ceglanej polskiej stolicy lnu Żyrardowa przesyłam Rafałowi, obyś w zdrowiu i nie w gorącu przychylnym okiem patrzył na zadania swoich studentów :)")
+print("\nSerdeczne pozdrowienia z ceglanej polskiej stolicy lnu Żyrardowa "
+    "przesyłam Rafałowi, obyś w zdrowiu i nie w gorącu przychylnym okiem "
+    "patrzył na zadania swoich studentów :)")
+
+print("ODPOWIEDŹ")
+print("1. Dziękuję za wskazówkę z dzieleniem linii. "
+    "Przyznam, że tak długi tekst też mi nie odpowiadał, ale jakoś "
+    "nie mogłam dojść do tego jak zawijać tekst w prosty sposób, "
+    "uznałam, że jest to na tyle nieistotne, że olałam temat.")
+print("2. Zazwyczaj jeśli daję znacznik nowej linii to specjalnie "
+    "Często, żeby podejrzeć wynik drukuję sobie coś w konsoli. "
+    "Lubię wtedy, jeśli wynik jest oddzielony od reszty"
+    " - dla mnie jest to bardziej czytelne. Jeśli jest to "
+    "jakiś błąd, to oczywiście mogę tak nie robić.")
